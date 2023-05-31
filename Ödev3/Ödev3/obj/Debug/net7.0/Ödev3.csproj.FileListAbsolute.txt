@@ -1,0 +1,15 @@
+C:\Users\ftmakdnz\Desktop\GİTHUB\Ödev3\Ödev3\bin\Debug\net7.0\Ödev3.exe
+C:\Users\ftmakdnz\Desktop\GİTHUB\Ödev3\Ödev3\bin\Debug\net7.0\Ödev3.deps.json
+C:\Users\ftmakdnz\Desktop\GİTHUB\Ödev3\Ödev3\bin\Debug\net7.0\Ödev3.runtimeconfig.json
+C:\Users\ftmakdnz\Desktop\GİTHUB\Ödev3\Ödev3\bin\Debug\net7.0\Ödev3.dll
+C:\Users\ftmakdnz\Desktop\GİTHUB\Ödev3\Ödev3\bin\Debug\net7.0\Ödev3.pdb
+C:\Users\ftmakdnz\Desktop\GİTHUB\Ödev3\Ödev3\obj\Debug\net7.0\Ödev3.csproj.AssemblyReference.cache
+C:\Users\ftmakdnz\Desktop\GİTHUB\Ödev3\Ödev3\obj\Debug\net7.0\Ödev3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ftmakdnz\Desktop\GİTHUB\Ödev3\Ödev3\obj\Debug\net7.0\Ödev3.AssemblyInfoInputs.cache
+C:\Users\ftmakdnz\Desktop\GİTHUB\Ödev3\Ödev3\obj\Debug\net7.0\Ödev3.AssemblyInfo.cs
+C:\Users\ftmakdnz\Desktop\GİTHUB\Ödev3\Ödev3\obj\Debug\net7.0\Ödev3.csproj.CoreCompileInputs.cache
+C:\Users\ftmakdnz\Desktop\GİTHUB\Ödev3\Ödev3\obj\Debug\net7.0\Ödev3.dll
+C:\Users\ftmakdnz\Desktop\GİTHUB\Ödev3\Ödev3\obj\Debug\net7.0\refint\Ödev3.dll
+C:\Users\ftmakdnz\Desktop\GİTHUB\Ödev3\Ödev3\obj\Debug\net7.0\Ödev3.pdb
+C:\Users\ftmakdnz\Desktop\GİTHUB\Ödev3\Ödev3\obj\Debug\net7.0\Ödev3.genruntimeconfig.cache
+C:\Users\ftmakdnz\Desktop\GİTHUB\Ödev3\Ödev3\obj\Debug\net7.0\ref\Ödev3.dll
