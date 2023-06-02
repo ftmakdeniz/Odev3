@@ -39,30 +39,35 @@
 //}
 
 
-//Console.Write("Kaç adet ürün gireceksiniz? ");
-//int urunSayisi = int.Parse(Console.ReadLine());
+using System;
 
-//string[] urunler = new string[urunSayisi];
-////decimal[] fiyatlar = new decimal[urunSayisi];
+class Program
+{
+    static void Main()
+    {
+        Console.Write("Kaç adet ürün gireceksiniz? ");
+        int urunSayisi = int.Parse(Console.ReadLine());
 
-////for (int i = 0; i < urunSayisi; i++)
-////{
-////    Console.Write($"Ürün {i + 1} adı: ");
-//    urunler[i] = Console.ReadLine();
+        string[] urunIsimleri = new string[urunSayisi];
+        decimal[] urunFiyatlari = new decimal[urunSayisi];
 
-//    Console.Write($"Ürün {i + 1} fiyatı: ");
-//    fiyatlar[i] = decimal.Parse(Console.ReadLine());
-//}
+        for (int i = 0; i < urunSayisi; i++)
+        {
+            Console.Write($"Ürün {i + 1} adı: ");
+            urunIsimleri[i] = Console.ReadLine();
 
-//Console.WriteLine("Ürünler ve Fiyatları:");
-//for (int i = 0; i < urunSayisi; i++)
-//{
-//    Console.WriteLine($"{urunler[i]} - {fiyatlar[i]}");
-//}
+            Console.Write($"Ürün {i + 1} fiyatı: ");
+            urunFiyatlari[i] = decimal.Parse(Console.ReadLine());
+        }
 
+        Console.WriteLine($"Ürünlerin Listesi ve Fiyatları:");
+        
+        decimal toplamFiyat = 0;
+        for (int i = 0; i < urunSayisi; i++)
+        {
+            toplamFiyat += urunFiyatlari[i];
+        }
 
-
-
-
-
-
+        Console.WriteLine($"Toplam Fiyat: {toplamFiyat:C}");
+    }
+}
